@@ -1,6 +1,6 @@
 Name:		texlive-elegantnote
 Version:	62989
-Release:	1
+Release:	2
 Summary:	Elegant LaTeX Template for Notes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elegantnote
