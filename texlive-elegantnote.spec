@@ -3,7 +3,7 @@ Version:	62989
 Release:	2
 Summary:	Elegant LaTeX Template for Notes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elegantnote
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/elegantnote
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elegantnote.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elegantnote.doc.r%{version}.tar.xz
